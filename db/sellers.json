@@ -1,0 +1,32 @@
+[
+  {
+    "seller": "seller-1",
+    "timestamp": "8:01:03",
+    "rate": 500,
+    "amount_available": 5
+  },
+  {
+    "seller": "seller-2",
+    "timestamp": "8:03:02",
+    "rate": 700,
+    "amount_available": 2
+  },
+  {
+    "seller": "seller-3",
+    "timestamp": "8:04:04",
+    "rate": 800,
+    "amount_available": 6
+  },
+  {
+    "seller": "seller-4",
+    "timestamp": "8:04:05",
+    "rate": 600,
+    "amount_available": 10
+  },
+  {
+    "seller": "seller-5",
+    "timestamp": "8:04:07",
+    "rate": 700,
+    "amount_available": 9
+  }	
+]
